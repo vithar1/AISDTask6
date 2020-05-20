@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62ad200f-bbff-4253-b652-deb7e9cdaa3e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y3yjIFC930UTUprNC4CmEU1z0s" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../task5_1" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.project.task.util.HashMaps" />
+      <recent name="com.project.task.util.HashMaps.impl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\University\2semester_AaSD_task\task6_16\src\main\java\com\project\task\beck" />
+      <recent name="D:\Projects\University\AaSD_task_2semester\task6_16" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.task.Main" />
+      <module name="task6_16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.task.util.HashMaps.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.task.Main" />
+      <module name="task6_16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="task6_16" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="x2603186" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="x2603186" />
+      <module name="task6_16" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.x2603186" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62ad200f-bbff-4253-b652-deb7e9cdaa3e" name="Default Changelist" comment="" />
+      <created>1582185705956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582185705956</updated>
+      <workItem from="1582185707555" duration="649000" />
+      <workItem from="1582194838611" duration="48000" />
+      <workItem from="1583142991590" duration="425000" />
+      <workItem from="1583406587482" duration="5127000" />
+      <workItem from="1583415982483" duration="638000" />
+      <workItem from="1583425655176" duration="722000" />
+      <workItem from="1583483490738" duration="11299000" />
+      <workItem from="1583659112805" duration="977000" />
+      <workItem from="1583669272724" duration="8000" />
+      <workItem from="1583848057117" duration="3036000" />
+      <workItem from="1583919884380" duration="7244000" />
+      <workItem from="1584102714851" duration="159000" />
+      <workItem from="1584102880875" duration="3428000" />
+      <workItem from="1584197742420" duration="157000" />
+      <workItem from="1584333808575" duration="1464000" />
+      <workItem from="1584335869348" duration="561000" />
+      <workItem from="1584344054932" duration="11000" />
+      <workItem from="1584347844896" duration="389000" />
+      <workItem from="1584349541327" duration="1620000" />
+      <workItem from="1587474340279" duration="5620000" />
+      <workItem from="1587831687343" duration="6420000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
